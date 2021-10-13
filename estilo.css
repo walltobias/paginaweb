@@ -1,0 +1,53 @@
+body
+{
+    font-size: x-large;
+    font-family: Verdana;
+    text-align: center;
+
+}
+div
+{
+    font-family: sans-serif;
+    font-size: x-large;
+    font-weight: 100;
+    color: rgb(1, 141, 255);
+    text-align: center;
+    background-color: rgb(255, 255, 255) ;
+    height: 75px;
+ }
+
+img
+{
+
+    margin-left: 300px;
+    margin-right: 200px;
+}
+
+#imgpeque
+{
+    width: 200px;
+    height: 200px;
+
+}
+table 
+{
+    
+    text-align: center;
+    background-color: rgb(0, 140, 255);
+    color: rgb(247, 245, 248);
+    font-family:sans-serif;
+    height: 100px;
+    width: 100%;
+}
+
+a {
+    color: rgb(247, 241, 244);
+  }
+
+  p {
+    border: 4px solid rgb(0, 140, 255);
+    border-radius: 5px;
+    font-family: sans-serif;
+    font-size: 12;
+    text-align: justify;
+  }
